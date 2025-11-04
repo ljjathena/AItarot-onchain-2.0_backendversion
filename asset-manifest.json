@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AItarot-onchain-2.0_backendversion/static/css/main.973a9e49.css",
-    "main.js": "/AItarot-onchain-2.0_backendversion/static/js/main.f1781c17.js",
+    "main.js": "/AItarot-onchain-2.0_backendversion/static/js/main.e8567760.js",
     "static/js/453.525ad7df.chunk.js": "/AItarot-onchain-2.0_backendversion/static/js/453.525ad7df.chunk.js",
     "static/media/background.jpg": "/AItarot-onchain-2.0_backendversion/static/media/background.c1b878d9e390fd1e9426.jpg",
     "static/media/pentacles-queen.jpg": "/AItarot-onchain-2.0_backendversion/static/media/pentacles-queen.b98a687d178f01ad9cbd.jpg",
@@ -164,11 +164,11 @@
     "static/media/pentacles-4.webp": "/AItarot-onchain-2.0_backendversion/static/media/pentacles-4.d2164dea0533d09574aa.webp",
     "index.html": "/AItarot-onchain-2.0_backendversion/index.html",
     "main.973a9e49.css.map": "/AItarot-onchain-2.0_backendversion/static/css/main.973a9e49.css.map",
-    "main.f1781c17.js.map": "/AItarot-onchain-2.0_backendversion/static/js/main.f1781c17.js.map",
+    "main.e8567760.js.map": "/AItarot-onchain-2.0_backendversion/static/js/main.e8567760.js.map",
     "453.525ad7df.chunk.js.map": "/AItarot-onchain-2.0_backendversion/static/js/453.525ad7df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.973a9e49.css",
-    "static/js/main.f1781c17.js"
+    "static/js/main.e8567760.js"
   ]
 }
